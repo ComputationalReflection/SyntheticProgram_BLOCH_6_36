@@ -1,0 +1,7 @@
+BLOCH-6.36;B2.java;5;METHOD_DEC;es.uniovi.reflection.bloch_6_36.noncompliant.B2:a()void
+BLOCH-6.36;B2.java;9;METHOD_DEC;es.uniovi.reflection.bloch_6_36.noncompliant.B2:c()void
+BLOCH-6.36;A2.java;4;METHOD_DEC;es.uniovi.reflection.bloch_6_36.noncompliant.A2:a()void
+BLOCH-6.36;B2.java;18;METHOD_DEC;es.uniovi.reflection.bloch_6_36.noncompliant.B2:hashCode()int
+BLOCH-6.36;A2.java;8;METHOD_DEC;es.uniovi.reflection.bloch_6_36.noncompliant.A2:b()void
+BLOCH-6.36;B2.java;13;METHOD_DEC;es.uniovi.reflection.bloch_6_36.noncompliant.B2:d()void
+BLOCH-6.36;B1.java;18;METHOD_DEC;es.uniovi.reflection.bloch_6_36.noncompliant.B1:toString()java.lang.String
